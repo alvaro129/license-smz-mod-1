@@ -1,6 +1,6 @@
 {
-  "killSwitchActive": false,
-  "timestamp": 1791536840345,
-  "reason": "System Restored to Normal by Developer",
+  "killSwitchActive": true,
+  "timestamp": 1791537695346,
+  "reason": "Emergency Developer Shutdown Triggered",
   "updatedBy": "Admin Command Center"
 }
