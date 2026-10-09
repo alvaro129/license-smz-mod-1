@@ -1,6 +1,6 @@
 {
-  "killSwitchActive": true,
+  "killSwitchActive": false,
   "mode": "WHITE_SCREEN",
-  "updatedAt": "2026-10-09T10:05:44.505Z",
-  "actor": "Admin Triggered"
+  "updatedAt": "2026-10-09T10:05:56.485Z",
+  "actor": "Admin Revoked"
 }
