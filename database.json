@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "SZA-4CEC",
+    "name": "Ilham",
+    "expiry": "2026-11-08",
+    "status": "AKTIF",
+    "notes": "",
+    "token": "ACT-SZA4CEC-261108-85AF",
+    "banReason": ""
+  },
+  {
+    "id": "SZA-7892",
+    "name": "Rian Ramadhan 12 IPA 2",
+    "expiry": "2026-10-31",
+    "status": "AKTIF",
+    "notes": "Lunas transfer Dana",
+    "token": "ACT-SZA7892-261031-1EDB",
+    "banReason": ""
+  },
+  {
+    "id": "SZA-4410",
+    "name": "Budi Santoso 11 IPS 1",
+    "expiry": "2026-10-05",
+    "status": "EXPIRED",
+    "notes": "Belum perpanjang",
+    "token": "ACT-SZA4410-261005-C1EA",
+    "banReason": ""
+  }
+]
