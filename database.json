@@ -1,5 +1,14 @@
 [
   {
+    "id": "SZA-82BA",
+    "name": "Fiqhan",
+    "expiry": "2026-10-20T23:59",
+    "status": "AKTIF",
+    "notes": "",
+    "token": "ACT-SZA82BA-2610202359-F9DB",
+    "banReason": ""
+  },
+  {
     "id": "SZA-3FE5",
     "name": "Dimas raka",
     "expiry": "2026-10-20T01:00",
