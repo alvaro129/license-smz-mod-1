@@ -1,7 +1,7 @@
 {
-  "killSwitchActive": true,
+  "killSwitchActive": false,
   "adminWaNumber": "6289531157173",
   "mode": "WHITE_SCREEN",
-  "updatedAt": "2026-10-14T09:34:27.499Z",
-  "actor": "Admin Triggered"
+  "updatedAt": "2026-10-14T09:35:08.722Z",
+  "actor": "Admin Revoked"
 }
