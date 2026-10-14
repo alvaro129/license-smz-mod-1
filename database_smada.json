@@ -1,14 +1,5 @@
 [
   {
-    "id": "SMD-8492",
-    "name": "Dimas Pratama 12 MIPA 1",
-    "expiry": "2026-11-12",
-    "status": "AKTIF",
-    "notes": "Lunas transfer Dana",
-    "token": "ACT-SMD8492-261112-33EE",
-    "banReason": ""
-  },
-  {
     "id": "SMD-7892",
     "name": "Rian Ramadhan 12 IPA 2",
     "expiry": "2026-10-31",
