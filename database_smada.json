@@ -1,14 +1,5 @@
 [
   {
-    "id": "SMD-1C5A",
-    "name": "Ilham",
-    "expiry": "2026-11-12T23:59",
-    "status": "AKTIF",
-    "notes": "",
-    "token": "ACT-SMD1C5A-2611122359-628E",
-    "banReason": ""
-  },
-  {
     "id": "SMD-8492",
     "name": "Dimas Pratama 12 MIPA 1",
     "expiry": "2026-11-12",
