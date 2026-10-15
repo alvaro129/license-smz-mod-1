@@ -3,11 +3,11 @@
     "id": "SMD1C5A",
     "name": "ilham",
     "expiry": "2026-10-15T14:35",
-    "status": "BANNED",
+    "status": "AKTIF",
     "notes": "",
     "token": "ACT-SMD1C5A-2610151435-B170",
-    "banReason": "Belum melunasi biaya lisensi bulan ini",
-    "unbanTimestamp": 1792048107784
+    "banReason": "",
+    "unbanTimestamp": 1792049902381
   },
   {
     "id": "SMD-4410",
