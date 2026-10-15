@@ -25,14 +25,5 @@
     "notes": "Lunas transfer Dana",
     "token": "ACT-SMD7892-261031-E5D2",
     "banReason": ""
-  },
-  {
-    "id": "SMD-1C5A",
-    "name": "ilham",
-    "expiry": "2026-10-31T23:00",
-    "status": "AKTIF",
-    "notes": "",
-    "token": "ACT-SMD1C5A-2610312300-E7F0",
-    "banReason": ""
   }
 ]
