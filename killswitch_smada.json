@@ -2,7 +2,9 @@
   "killSwitchActive": false,
   "adminWaNumber": "6289531157173",
   "mode": "WHITE_SCREEN",
-  "targetedDevices": [],
-  "updatedAt": "2026-10-15T06:25:04.671Z",
-  "actor": "Admin Target Normal: SMD1C5A"
+  "targetedDevices": [
+    "SMD1C5A"
+  ],
+  "updatedAt": "2026-10-15T07:07:38.516Z",
+  "actor": "Admin Target Kill: SMD1C5A"
 }
