@@ -1,14 +1,5 @@
 [
   {
-    "id": "SMD-1C5A",
-    "name": "ilham",
-    "expiry": "2026-12-13T23:59",
-    "status": "AKTIF",
-    "notes": "",
-    "token": "ACT-SMD1C5A-2612132359-9EF7",
-    "banReason": ""
-  },
-  {
     "id": "SMD-4410",
     "name": "Budi Santoso 11 IPS 1",
     "expiry": "2026-10-05",
