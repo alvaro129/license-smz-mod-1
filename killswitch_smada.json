@@ -1,8 +1,8 @@
 {
-  "killSwitchActive": false,
+  "killSwitchActive": true,
   "adminWaNumber": "6289531157173",
   "mode": "WHITE_SCREEN",
   "targetedDevices": [],
-  "updatedAt": "2026-10-16T06:22:26.732Z",
-  "actor": "Admin Target Normal: SMD1C5A"
+  "updatedAt": "2026-10-16T06:22:44.900Z",
+  "actor": "Admin Triggered Global Kill Switch"
 }
